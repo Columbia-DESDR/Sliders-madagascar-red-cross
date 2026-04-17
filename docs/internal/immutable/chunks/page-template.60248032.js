@@ -1,4 +1,4 @@
-import{S as Me,i as Oe,s as $e,e as n,a as c,t as T,c as r,b as s,d as a,f as d,g as C,h as i,j as Ae,k as Fe,l as De,m as e,n as He,o as Ne,p as Ue,q as We,u as Ye}from"./index.25bd61c2.js";import{l as je,C as Qe}from"./config.be5bf228.js";import{M as ze,f as Ge,h as Je,C as Ke}from"./http_client.30543c22.js";import{b as Le,B as Xe}from"./index.639f1aa0.js";import{m as Be}from"./model_out.87642111.js";const Ze=`# Madagascar Red Cross Configuration
+import{S as Me,i as Oe,s as $e,e as n,a as c,t as T,c as r,b as s,d as a,f as d,g as C,h as i,j as Ae,k as Fe,l as De,m as e,n as He,o as Ne,p as Ue,q as We,u as Ye}from"./index.25bd61c2.js";import{l as je,C as Qe}from"./config.2d91628a.js";import{M as ze,f as Ge,h as Je,C as Ke}from"./http_client.49de87da.js";import{b as Le,B as Xe}from"./index.93f4e8cf.js";import{m as Be}from"./model_out.1f2c5f87.js";const Ze=`# Madagascar Red Cross Configuration
 # This is a minimal configuration file that serves as a baseline template
 # for creating new country-specific implementations
 
