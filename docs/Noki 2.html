@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+		<link rel="modulepreload" href="./internal/immutable/entry/start.1a462dc1.js">
+		<link rel="modulepreload" href="./internal/immutable/chunks/index.2a3ac341.js">
+		<link rel="modulepreload" href="./internal/immutable/chunks/singletons.e66d22c6.js">
+		<link rel="modulepreload" href="./internal/immutable/chunks/paths.fafe8bef.js">
+		<link rel="modulepreload" href="./internal/immutable/chunks/control.c2cf8273.js">
+		<link rel="modulepreload" href="./internal/immutable/entry/app.7747dcdc.js">
+		<link rel="modulepreload" href="./internal/immutable/chunks/preload-helper.a4192956.js">
+	</head>
+	<body data-sveltekit-prefetch>
+		<div>
+			<script>
+				{
+					__sveltekit_vyir98 = {
+						assets: "/Sliders-madagascar-red-cross",
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("./internal/immutable/entry/start.1a462dc1.js"),
+						import("./internal/immutable/entry/app.7747dcdc.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
